@@ -19,6 +19,7 @@ setup(
     license='TODO: License declaration',
     entry_points={
         'console_scripts': [
+            "simple_publisher=robot_py_examples.simple_publisher:main",
         ],
     },
 )
