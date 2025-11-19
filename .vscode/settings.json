@@ -1,0 +1,39 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/tajne/ecruxbot_ws/install/robot_python_pkg/lib/python3.10/site-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_msgs/local/lib/python3.10/dist-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_localization_pkg/local/lib/python3.10/dist-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_firmware_pkg/local/lib/python3.10/dist-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_controller_pkg/local/lib/python3.10/dist-packages",
+        "/home/tajne/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/tajne/bumperbot_ws/install/bumperbot_msgs/local/lib/python3.10/dist-packages",
+        "/home/tajne/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages",
+        "/home/tajne/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/tajne/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/tajne/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/tajne/dev_ws/install/lidarbot_navigation/local/lib/python3.10/dist-packages",
+        "/home/tajne/dev_ws/build/lidarbot_aruco",
+        "/home/tajne/dev_ws/install/lidarbot_aruco/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tajne/ecruxbot_ws/install/robot_python_pkg/lib/python3.10/site-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_msgs/local/lib/python3.10/dist-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_localization_pkg/local/lib/python3.10/dist-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_firmware_pkg/local/lib/python3.10/dist-packages",
+        "/home/tajne/ecruxbot_ws/install/robot_controller_pkg/local/lib/python3.10/dist-packages",
+        "/home/tajne/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/tajne/bumperbot_ws/install/bumperbot_msgs/local/lib/python3.10/dist-packages",
+        "/home/tajne/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages",
+        "/home/tajne/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/tajne/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/tajne/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/tajne/dev_ws/install/lidarbot_navigation/local/lib/python3.10/dist-packages",
+        "/home/tajne/dev_ws/build/lidarbot_aruco",
+        "/home/tajne/dev_ws/install/lidarbot_aruco/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
